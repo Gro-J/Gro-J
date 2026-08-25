@@ -115,8 +115,7 @@
 - **Team:** 5명
 - **Period:** 6 Weeks
 - **Result:** Techeer Bootcamp Hackathon 🥈 2nd Place
-- 영상 생성 시간을 약 **7분 → 1분 30초**로 단축
-- Spring Boot와 Django REST 기반 서버 개발
+- Django REST 기반 어플리케이션 개발
 - 비동기 영상 생성 파이프라인 구축
 - 외부 AI API 연동 및 장애 상황을 고려한 fallback 처리
 
