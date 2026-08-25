@@ -185,33 +185,15 @@
 <div align="center">
 
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Gro-J&show_icons=true&hide_border=true"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Gro-J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gro-J&layout=compact&hide_border=true"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
+  <br><br>
 
   <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGro-J%2F&count_bg=%235B3F9D&title_bg=%23358C97&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:5b3f9d,100:358c97&height=120&section=footer"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gro-J&layout=compact&theme=tokyonight&hide_border=true"
   />
 
 </div>
