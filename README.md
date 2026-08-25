@@ -121,7 +121,7 @@
 
 **Tech**
 
-`Spring Boot` `Django REST` `Docker` `Celery` `Redis` `RabbitMQ` `asyncio` `OAuth2`
+`Django REST` `Docker` `Celery` `Redis` `RabbitMQ` `asyncio` `OAuth2`
 
 <br>
 
