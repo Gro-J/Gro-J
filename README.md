@@ -185,15 +185,15 @@
 <div align="center">
 
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Gro-J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Gro-J&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Gro-J GitHub Stats"
   />
 
   <br><br>
 
   <img
-    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gro-J&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Gro-J Top Languages"
   />
 
 </div>
