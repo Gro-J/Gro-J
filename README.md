@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:5b3f9d,100:358c97&height=200&section=header&text=You%20Live%20Once&fontColor=ffffff&fontSize=55&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=blur&height=250&color=Gradient&section=header&reversal=false&text=You%20Live%20Once&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=48&descAlignY=49"
   />
 
   <h3>
