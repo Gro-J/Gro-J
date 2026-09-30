@@ -184,16 +184,10 @@
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Gro-J&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Gro-J GitHub Stats"
-  />
+## 📊 GitHub Stats
 
-  <br><br>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gro-J&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Gro-J Top Languages"
-  />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gro-J&theme=dark" />
+</p>
 
 </div>
