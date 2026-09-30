@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=250&color=Gradient&section=header&reversal=false&text=You%20Live%20Once&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=48&descAlignY=49"
-  />
+  <img src="./shockedcat.jpg" width="220" />
 
   <h3>
     Backend & AI Service Developer
@@ -14,6 +12,14 @@
   </p>
 
 </div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gro-J&theme=dark" />
+</p>
 
 <br>
 
@@ -175,19 +181,5 @@
   <a href="https://www.instagram.com/z3r0gyxn/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gro-J&theme=dark" />
-</p>
 
 </div>
